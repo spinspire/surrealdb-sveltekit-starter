@@ -1,0 +1,8 @@
+{
+  "surrealdb": {
+    "_url": "http://surrealdb-db-1.docker:8000/rpc",
+    "ns": "test",
+    "db": "test",
+    "sc": "allusers"
+  }
+}
